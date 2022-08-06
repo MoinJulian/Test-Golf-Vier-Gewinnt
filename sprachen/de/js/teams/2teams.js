@@ -67,7 +67,7 @@ function FieldAlreadyChecked(fieldnb) {
         }else if(feld1 == team1) {
             changeTeam();
         }else {
-            field(field);
+            Field(field);
         }
     }else if(field == 2) {
         if(feld2 == team0) {
@@ -504,7 +504,7 @@ function FieldAlreadyChecked(fieldnb) {
     }
 }
 
-function field(field) { //field = Nummer des Feldes
+function Field(field) { //field = Nummer des Feldes
 
     currentPlayer();
     if(teams == 0) {
