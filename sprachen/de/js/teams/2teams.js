@@ -73,7 +73,7 @@ let checked56 = false;
 function FieldAlreadyChecked(field) {
     if(field == 1) {
         if(checked1 == true) {
-            changeTeam();
+            return;
         }else if(checked1 == false) {
             Field(field);
         }
