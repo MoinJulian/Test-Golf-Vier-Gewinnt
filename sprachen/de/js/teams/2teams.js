@@ -256,11 +256,11 @@ function FieldAlreadyChecked(field) {
         }else if(checked30 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 31) {
+        if(checked31 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked31 == false) {
             Field(field);
         }
     }else if(field == 2) {
@@ -439,6 +439,7 @@ function FieldAlreadyChecked(field) {
             Field(field);
         }
     }
+    currentPlayer();
 }
 
 function Field(field) { //field = Nummer des Feldes
