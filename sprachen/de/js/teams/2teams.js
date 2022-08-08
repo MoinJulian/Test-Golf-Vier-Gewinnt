@@ -79,10 +79,10 @@ function FieldAlreadyChecked(field) {
             Field(field);
         }
     }else if(field == 2) {
-        if(checked1 == true) {
+        if(checked2 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked1 == false) {
+        }else if(checked2 == false) {
             Field(field);
         }
     }
