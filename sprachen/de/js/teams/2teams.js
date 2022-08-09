@@ -32,6 +32,7 @@ let feld48; let feld49; let feld50; let feld51; let feld52; let feld53; let feld
 let team0 = "darkgoldenrod"; //blaues Team
 let team1 = "darkred"; //rotes Team
 let teams = 0;
+let lastclicked;
 let checked1 = false; let checked2 = false; let checked3 = false; let checked4 = false; let checked5 = false;
 let checked6 = false; let checked7 = false; let checked8 = false; let checked9 = false; let checked10 = false;
 let checked11 = false; let checked12 = false; let checked13 = false; let checked14 = false; let checked15 = false;
@@ -903,6 +904,14 @@ function Field(field) { //field = Nummer des Feldes
     changeTeam();
 }
 
+function removeLast(lastclicked) {
+    if(lastclicked == 1) {
+        document.getElementById("1").style.backgroundColor = "transparent";
+        feld1 = null;
+        checked1 = false;
+    }
+}
+
 function TestWinBlue() {
     if (
         // 1. Reihe
@@ -1188,17 +1197,17 @@ function setNull() {
     document.getElementById("55").style.backgroundColor = "transparent";
     document.getElementById("56").style.backgroundColor = "transparent";
     let checked1 = false; let checked2 = false; let checked3 = false; let checked4 = false; let checked5 = false;
-let checked6 = false; let checked7 = false; let checked8 = false; let checked9 = false; let checked10 = false;
-let checked11 = false; let checked12 = false; let checked13 = false; let checked14 = false; let checked15 = false;
-let checked16 = false; let checked17 = false; let checked18 = false; let checked19 = false; let checked20 = false;
-let checked21 = false; let checked22 = false; let checked23 = false; let checked24 = false; let checked25 = false;
-let checked26 = false; let checked27 = false; let checked28 = false; let checked29 = false; let checked30 = false;
-let checked31 = false; let checked32 = false; let checked33 = false; let checked34 = false; let checked35 = false;
-let checked36 = false; let checked37 = false; let checked38 = false; let checked39 = false; let checked40 = false;
-let checked41 = false; let checked42 = false; let checked43 = false; let checked44 = false; let checked45 = false;
-let checked46 = false; let checked47 = false; let checked48 = false; let checked49 = false; let checked50 = false;
-let checked51 = false; let checked52 = false; let checked53 = false; let checked54 = false; let checked55 = false;
-let checked56 = false;
+    let checked6 = false; let checked7 = false; let checked8 = false; let checked9 = false; let checked10 = false;
+    let checked11 = false; let checked12 = false; let checked13 = false; let checked14 = false; let checked15 = false;
+    let checked16 = false; let checked17 = false; let checked18 = false; let checked19 = false; let checked20 = false;
+    let checked21 = false; let checked22 = false; let checked23 = false; let checked24 = false; let checked25 = false;
+    let checked26 = false; let checked27 = false; let checked28 = false; let checked29 = false; let checked30 = false;
+    let checked31 = false; let checked32 = false; let checked33 = false; let checked34 = false; let checked35 = false;
+    let checked36 = false; let checked37 = false; let checked38 = false; let checked39 = false; let checked40 = false;
+    let checked41 = false; let checked42 = false; let checked43 = false; let checked44 = false; let checked45 = false;
+    let checked46 = false; let checked47 = false; let checked48 = false; let checked49 = false; let checked50 = false;
+    let checked51 = false; let checked52 = false; let checked53 = false; let checked54 = false; let checked55 = false;
+    let checked56 = false;
 
 
 }
