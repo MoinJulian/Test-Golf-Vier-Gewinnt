@@ -904,7 +904,7 @@ function Field(field) { //field = Nummer des Feldes
     changeTeam();
 }
 
-function removeLast(lastclicked) {
+function removeLast() {
     if(lastclicked == 1) {
         document.getElementById("1").style.backgroundColor = "transparent";
         feld1 = null;
