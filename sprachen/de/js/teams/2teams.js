@@ -264,183 +264,182 @@ function FieldAlreadyChecked(field) {
         }else if(checked31 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 32) {
+        if(checked32 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked32 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 33) {
+        if(checked33 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked33 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 34) {
+        if(checked34 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked34 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 35) {
+        if(checked35 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked35 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 36) {
+        if(checked36 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked36 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 37) {
+        if(checked37 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked37 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 38) {
+        if(checked38 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked38 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 39) {
+        if(checked39 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked39 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 40) {
+        if(checked40 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked40 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 41) {
+        if(checked41 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked41 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 42) {
+        if(checked42 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked42 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 43) {
+        if(checked43 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked43 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 44) {
+        if(checked44 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked44 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 45) {
+        if(checked45 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked45 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 46) {
+        if(checked46 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked46 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 47) {
+        if(checked47 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked47 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 48) {
+        if(checked48 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked48 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 49) {
+        if(checked49 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked49 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 50) {
+        if(checked50 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked50 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 51) {
+        if(checked51 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked51 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 52) {
+        if(checked52 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked52 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 53) {
+        if(checked53 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked53 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 54) {
+        if(checked54 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked54 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 55) {
+        if(checked55 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked55 == false) {
             Field(field);
         }
-    }else if(field == 2) {
-        if(checked2 == true) {
+    }else if(field == 56) {
+        if(checked56 == true) {
             changeTeam();
             currentPlayer();
-        }else if(checked2 == false) {
+        }else if(checked56 == false) {
             Field(field);
         }
     }
-    currentPlayer();
 }
 
 function Field(field) { //field = Nummer des Feldes
@@ -1002,7 +1001,8 @@ function TestWinBlue() {
         currentPlayer();
         setTimeout(function() {
             hideInfo();
-            setNull();
+            //setNull();
+            location.reload();
         },2000)
     }
 }
@@ -1095,7 +1095,8 @@ function TestWinRed() {
         writeInfo("Das Dunkelrote Team hat das Spiel gewonnen. <br> Herzlichen Glückwunsch!");
         setTimeout(function() {
             hideInfo();
-            setNull();
+            //setNull();
+            location.reload();
         },2000)
     }
 }
