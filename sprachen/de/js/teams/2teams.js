@@ -32,7 +32,7 @@ let feld48; let feld49; let feld50; let feld51; let feld52; let feld53; let feld
 let team0 = "darkgoldenrod"; //blaues Team
 let team1 = "darkred"; //rotes Team
 let teams = 0;
-let lastclicked = 1;
+let lastclicked = "1";
 let checked1 = false; let checked2 = false; let checked3 = false; let checked4 = false; let checked5 = false;
 let checked6 = false; let checked7 = false; let checked8 = false; let checked9 = false; let checked10 = false;
 let checked11 = false; let checked12 = false; let checked13 = false; let checked14 = false; let checked15 = false;
@@ -904,7 +904,7 @@ function Field(field) { //field = Nummer des Feldes
 }
 
 function removeLast() {
-    if(lastclicked == 1) {
+    if(lastclicked == "1") {
         document.getElementById("1").style.backgroundColor = "transparent";
         feld1 = null;
         checked1 = false;
